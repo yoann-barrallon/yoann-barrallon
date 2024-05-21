@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **React and Tailwind**
 
-<h3 align="left">Connect with me:</h3>
+- Linux suprematie here
+
 <p align="left">
 </p>
 
