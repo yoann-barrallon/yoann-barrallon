@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZrefiXiord</h1>
 <h3 align="center">A noob developer from France</h3>
 
-- 🔭 I’m currently working on [cleet](https://github.com/ZrefiXiord/cleet)
-
-- 🌱 I’m currently learning **React and Tailwind**
-
 - Linux suprematie here
 
 <p align="left">
