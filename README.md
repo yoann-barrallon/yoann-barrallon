@@ -12,4 +12,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zrefixiord&show_icons=true&locale=en&layout=compact" alt="zrefixiord" /></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   11 hrs 59 mins  ██████████████████████░░░   87.90 %
+JSON         54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+SQL          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+TSConfig     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+```
+
 <!--END_SECTION:waka-->
