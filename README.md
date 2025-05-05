@@ -16,9 +16,7 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 33 mins    ████████████████████████▓   99.03 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+TypeScript   37 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
