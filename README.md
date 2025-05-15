@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yoann</h1>
-<h3 align="center">A noob developer from France</h3>
+<h3 align="center">A developer from France</h3>
 
-- Linux suprematie here
 
 <p align="left">
 </p>
