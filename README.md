@@ -15,11 +15,11 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    7 hrs 16 mins   ████████████░░░░░░░░░░░░░   47.43 %
-JavaScript    3 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 %
-PHP           1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Markdown      1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Astro         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+TypeScript    3 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 %
+JavaScript    3 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
+PHP           3 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
+Markdown      1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Astro         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 ```
 
 <!--END_SECTION:waka-->
