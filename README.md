@@ -15,10 +15,8 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          2 hrs 56 mins   ████████████████████▓░░░░   82.97 %
-JavaScript   22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-Markdown     12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+PHP          24 mins         ██████████████▓░░░░░░░░░░   58.57 %
+JavaScript   17 mins         ██████████▒░░░░░░░░░░░░░░   41.43 %
 ```
 
 <!--END_SECTION:waka-->
