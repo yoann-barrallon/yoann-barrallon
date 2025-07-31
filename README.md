@@ -15,9 +15,8 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   41 mins         ██████████████████████░░░   87.98 %
-YAML         4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-SQL          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+TypeScript   1 hr 21 mins    ████████████████████████▓   98.95 %
+SQL          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
