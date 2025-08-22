@@ -15,8 +15,11 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   24 mins         ████████████████████████░   95.96 %
-Prisma       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+TypeScript   24 mins         █████████████████▒░░░░░░░   69.91 %
+Docker       3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+YAML         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Markdown     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Prisma       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
