@@ -15,11 +15,11 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       3 mins          █████████▒░░░░░░░░░░░░░░░   36.69 %
-YAML         3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.53 %
-Markdown     2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+TypeScript   2 hrs 21 mins   ██████████████████▒░░░░░░   73.04 %
+JSON         23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+Markdown     15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Git Config   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
