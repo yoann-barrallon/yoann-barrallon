@@ -15,10 +15,7 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   42 mins         ██████████████████▓░░░░░░   74.80 %
-JSON         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Markdown     5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+JSON   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
