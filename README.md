@@ -15,8 +15,7 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         3 mins          █████████████████▒░░░░░░░   69.01 %
-JavaScript   1 min           ███████▓░░░░░░░░░░░░░░░░░   30.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
