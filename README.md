@@ -15,7 +15,9 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   45 mins         █████████████████████████   100.00 %
+Dart    5 hrs 43 mins   █████████████████████████   99.60 %
+YAML    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Swift   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
