@@ -15,7 +15,8 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C    14 mins               ████████████████▓░░░░░░░░   67.17 %
+Go   7 mins                ████████▒░░░░░░░░░░░░░░░░   32.83 %
 ```
 
 <!--END_SECTION:waka-->
