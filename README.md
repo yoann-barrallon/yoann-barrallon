@@ -15,8 +15,7 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-C    14 mins               ████████████▓░░░░░░░░░░░░   50.37 %
-Go   14 mins               ████████████▒░░░░░░░░░░░░   49.63 %
+Go   7 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
