@@ -15,11 +15,7 @@ Wakatime weekly report:
 <!--START_SECTION:waka-->
 
 ```txt
-Twig         1 hr 21 mins          ███████████████▒░░░░░░░░░   61.73 %
-PHP          28 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
-JavaScript   18 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-YAML         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-JSON         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
